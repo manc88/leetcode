@@ -20,7 +20,7 @@ class Solution {
 
 }
 
-class Main {
+class Task1502 {
 
     public static void main(String[] args) {
 
